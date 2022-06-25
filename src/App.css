@@ -1,0 +1,34 @@
+.visibility-btn{
+    background-color: rgb(226, 199, 252);
+    border-color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.list{
+    margin-left: 500px;
+   margin-top: 30px;
+    font-size: 30px;
+    font-weight: lighter;
+    color: gray;
+}
+img{
+    margin-right: 400px;
+
+    width: 500px;
+    border: solid;
+    border-color:gray;
+    border-radius: 10px;
+    
+}
+#profile{
+    background-color: antiquewhite;
+    margin: 50px;
+    border: solid;
+    border-color:antiquewhite;
+    border-radius: 10px;
+}
+h4{
+    text-align: center;
+}
